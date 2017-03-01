@@ -1,0 +1,2 @@
+var c = document.getElementById("clear");
+var svg = document.getElementById("
